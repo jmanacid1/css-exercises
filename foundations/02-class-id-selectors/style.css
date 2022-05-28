@@ -1,0 +1,16 @@
+.pink_class{
+    background-color: #FA8072;
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+.bold_class{
+    font-size: 24px;
+}
+#one{
+    font-size: 36px;
+    color: #0000FF;
+}
+#another{
+    background-color: #00FF00;
+    font-weight: bold;
+    font-size: 24px;
+}
